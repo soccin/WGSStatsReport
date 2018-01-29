@@ -1,0 +1,3 @@
+[submodule "ETL.Picard"]
+	path = ETL.Picard
+	url = git@github.com:soccin/ETL.Picard.git
